@@ -1,2 +1,3 @@
-# curso-checo
-Curso para ver algunos elementos de la enseñanza de checo
+# Curso de Checo
+Curso expositivo de algunos materiales para que aprendas checo.
+
