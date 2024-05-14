@@ -1,0 +1,10 @@
+---
+title:
+- type: main
+  text: Guía de supervivencia en Praga
+- type: subtitle
+  text: Una brevísima ayuda
+  creator:
+- role: author
+  text: Stefanía Romero
+---
