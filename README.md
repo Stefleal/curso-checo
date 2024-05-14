@@ -4,7 +4,4 @@ En este pequeño repositario podrás encontrar algunos materiales que te pueden 
 ![praga](04-milibro/imagenes/Prague.jpg)
 
 ## Índice
-| 1    |Cuestionario      |"Lledna"
-| 2   |PDF     |	"Devie"
-| 3     |Guía | "Tsrsi" (la letra "ř" se lee como una "r" y "s" a la vez)
-| 4     |Mi Libro   |  	"Chitisrsi"
+1. [Cuestionario](/01-Cuestionario/)
