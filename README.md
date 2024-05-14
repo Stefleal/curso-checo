@@ -1,5 +1,5 @@
 # Curso de Checo
-<center>![Banner de Praga](banner.jpeg)</center>
+<center> ![Banner de Praga](banner.jpeg) </center>
 
 ### En este pequeño repositario podrás encontrar algunos materiales que te pueden servir para aprender checo. *Tal vez no serás un expertx* pero al menos sabrás qué hacer al llegar :sweat_smile:
 
