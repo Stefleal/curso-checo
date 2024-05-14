@@ -1,4 +1,5 @@
 # Curso de Checo
 Curso expositivo de algunos materiales para que aprendas checo.
-
-## índice :<3:
+![praha](milibro/imagenes/praha.png)
+## Índice
+1. 
