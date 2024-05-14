@@ -1,5 +1,5 @@
 # Curso de Checo
-<img align="right" width="120" height="120" src= "banner.jpeg">
+<img align="right" src= "banner.jpeg">
 
 ### En este pequeño repositario podrás encontrar algunos materiales que te pueden servir para aprender checo. *Tal vez no serás un expertx* pero al menos sabrás qué hacer al llegar :sweat_smile:
 
