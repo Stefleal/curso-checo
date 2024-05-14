@@ -11,6 +11,17 @@ En este pequeño repositario podrás encontrar algunos materiales que te pueden 
    Es muy breve, así que si quiere más información puedes continuar con el siguiente apartado.
 
    
-3. [PDF](/02-PDF)
-4. [Guía](/03-Guía)
-5. [Libro](/04-milibro)
+2. [PDF](/02-PDF)
+
+     En este apartado hallarás un PDF con algunos lugares que puedes visitar en Praga :star_struck:
+
+   
+3. [Guía](/03-Guía)
+
+     No te dejes engañar! este apartado contiene reglas gramaticales para la construcción sintáctica de oraciones, sí, *declinaciones*.
+   
+4. [Libro](/04-milibro)
+
+     Finalmente, el apartado más interesante que te podemos ofrecer es una guía súper completa :yum: para que te ubiques, converses lo básico y sepas algo más del lugar.
+
+##¡Que disfrutes este repositorio!
