@@ -25,4 +25,5 @@
 
      Finalmente, el apartado más interesante que te podemos ofrecer es una guía súper completa :yum: para que te ubiques, converses lo básico y sepas algo más del lugar.
 
-## ¡Que disfrutes este repositorio!
+## ¡Que lo disfrutes! :hugs:
+
